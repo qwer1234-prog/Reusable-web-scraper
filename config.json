@@ -1,0 +1,7 @@
+{
+    "url": "https://example.com",
+    "delay_min": 2,
+    "delay_max": 5,
+    "timeout": 20,
+    "output_file": "output/results.csv"
+}
